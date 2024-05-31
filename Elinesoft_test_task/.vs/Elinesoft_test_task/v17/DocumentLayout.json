@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RuslanNnNn\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\elinesoft test task\\Elinesoft_test_task\\Elinesoft_test_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14034B-BD7E-4FA2-A791-237723578A3D}|Elinesoft_test_task\\Elinesoft_test_task.csproj|c:\\users\\ruslannnnn\\desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\elinesoft test task\\elinesoft_test_task\\elinesoft_test_task\\elinesoft_test_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C14034B-BD7E-4FA2-A791-237723578A3D}|Elinesoft_test_task\\Elinesoft_test_task.csproj|solutionrelative:elinesoft_test_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14034B-BD7E-4FA2-A791-237723578A3D}|Elinesoft_test_task\\Elinesoft_test_task.csproj|c:\\users\\ruslannnnn\\desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\elinesoft test task\\elinesoft_test_task\\elinesoft_test_task\\elinesoft_test_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14034B-BD7E-4FA2-A791-237723578A3D}|Elinesoft_test_task\\Elinesoft_test_task.csproj|solutionrelative:elinesoft_test_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\elinesoft test task\\Elinesoft_test_task\\Elinesoft_test_task\\Elinesoft_test_task\\Form1.cs",
+              "RelativeDocumentMoniker": "Elinesoft_test_task\\Form1.cs",
+              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\elinesoft test task\\Elinesoft_test_task\\Elinesoft_test_task\\Elinesoft_test_task\\Form1.cs",
+              "RelativeToolTip": "Elinesoft_test_task\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:26:43.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\elinesoft test task\\Elinesoft_test_task\\Elinesoft_test_task\\Elinesoft_test_task\\Form1.cs",
+              "RelativeDocumentMoniker": "Elinesoft_test_task\\Form1.cs",
+              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\elinesoft test task\\Elinesoft_test_task\\Elinesoft_test_task\\Elinesoft_test_task\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Elinesoft_test_task\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:03:07.258Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
